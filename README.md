@@ -6,6 +6,6 @@ O grupo é composto por:
 
 *Ítalo Diego Teixeira Paes* </br>
 *Murlo Alves Botelho* </br>
-*aluno3* </br>
+*Erick Sanchez De Jesus Afonso* </br>
 *aluno4* </br>
 
