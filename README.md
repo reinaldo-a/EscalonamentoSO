@@ -1,11 +1,26 @@
-# Projeto: Algoritmos de Escalonamento - Sistemas Operacionais
+# Projeto: Algoritmos de Escalonamento — Repositório
 
-Este é um projeto da disciplina de **Sistemas Operacionais** do curso de Análise e Desenvolvimento de Sistemas, do IF Baiano Campus Guanambi.
+Repositório para implementação dos algoritmos de escalonamento em C.
 
-O grupo é composto por:
 
-*Ítalo Diego Teixeira Paes* </br>
-*Murlo Alves Botelho* </br>
-*Erick Sanchez De Jesus Afonso* </br>
-*aluno4* </br>
+## O que cada arquivo faz
+- **fcfs.c** — código do algoritmo First Come, First Served.  
+- **sjf.c** — código do algoritmo Shortest Job First.  
+- **priority.c** — código do algoritmo de Prioridade.  
+- **rr.c** — código do algoritmo Round Robin.  
 
+## Como compilar
+Compilar individualmente:
+```bash
+gcc src/fcfs.c -o fcfs
+gcc src/sjf.c -o sjf
+gcc src/priority.c -o priority
+gcc src/rr.c -o rr
+Como executar
+bash
+Copiar código
+./fcfs
+./sjf
+./priority
+./rr
+A entrada/saída depende da forma como cada algoritmo foi implementado.
